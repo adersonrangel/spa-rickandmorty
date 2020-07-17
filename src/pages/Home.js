@@ -1,3 +1,5 @@
+import getData from "../utils/getData";
+
 const Home = () => {
   const view = `
     <div class="characters">
